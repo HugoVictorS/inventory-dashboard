@@ -1,7 +1,7 @@
-# inventory-dashboard
+# About Inventory Dashboard
 
-A simple project made for help who needs
+A simple project created to practice HTML, CSS, and JavaScript while building an internal inventory dashboard.
 
 # Tech
 
-HTML, CSS and JAVASCRIPT
+HTML5, CSS3, JavaScript
